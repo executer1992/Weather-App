@@ -1,0 +1,143 @@
+.primary-text{
+  color:#56a79a;
+}
+*{
+   box-sizing: border-box;
+}
+body{
+  margin:0;
+  padding:0;
+
+}
+.container{
+  margin:auto;
+}
+#temperature{
+  font-size: 30px;
+  padding: 5px;
+  
+}
+#tempeunit{
+  font-size: 30px;
+  padding: 5px;
+  text-transform: capitalize;
+  
+}
+#wind, #direction{
+  font-size: 30px;
+  text-transform: capitalize;
+  padding: 5px;
+  
+}
+#humidity, #pressure{
+  font-size: 30px;
+  padding: 5px;
+  
+}
+#location, #country{
+  font-size: 30px;
+  padding: 5px;
+  
+}
+span{
+  line-height:2em;
+  font-family: 'Slabo 27px', serif;
+  color: #fff;
+}
+span img{
+  height: 60px;
+  opacity:0.9;
+}
+h1.text-primaryy{
+  font-family: 'Slabo 27px', serif;
+  font-size: 35px;
+  margin-bottom: 80px;
+  margin-top: 30px;
+  color: #bf66ff;
+  font-weight: bold;  
+  
+}
+.showcase-thunderstorm{
+  background: url(http://res.cloudinary.com/dinwmdlb9/image/upload/v1504035734/lightning-storm-night-firebird-56614_mb0vjw.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+ 
+}
+.showcase-rain-day{
+  background: url(http://hdfreewallpaper.net/wp-content/uploads/2015/07/Beautiful-Rainy-Day-HD-Image.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+
+}
+.showcase-rain-night{
+  background: url(https://i.pinimg.com/originals/e3/80/1f/e3801f3c54ca684f04c621caa0fcf9c9.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+  
+}
+.showcase-night{
+  background: url(http://res.cloudinary.com/dinwmdlb9/image/upload/v1504035144/pexels-photo-355465_bsrtuf.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+  
+}
+.showcase-clearSky{
+  background: url(https://static.pexels.com/photos/440731/pexels-photo-440731.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+  
+  
+}
+.showcase-Clouds-day{
+  background: url(http://res.cloudinary.com/dinwmdlb9/image/upload/v1504035733/clouds-cloudporn-weather-lookup-158163_yhp46k.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+  
+ 
+}
+.showcase-Clouds-night{
+  background: url(http://wallpapers-hd-wide.com/wp-content/uploads/2016/01/Beautiful-cloudy-night-full-moon-moonlight-1920x1080.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  
+}
+.showcase-snow{
+  background: url(http://res.cloudinary.com/dinwmdlb9/image/upload/v1504035734/pexels-photo-235621_pjbhwn.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+  
+}
+.showcase-mist-day{
+  background: url(https://i.imgur.com/bKrmQkd.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+  
+}
+.showcase-mist-night{
+  background: url(http://res.cloudinary.com/dinwmdlb9/image/upload/v1504774543/Blue_Wallpaper_1920x1080_Creepy_Blue_Nature_Trees_Night_Mist_..._sauhg9.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+  
+  
+}
